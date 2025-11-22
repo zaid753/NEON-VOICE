@@ -1,0 +1,7 @@
+{
+  "name": "NeonVoice - AI Agent",
+  "description": "A futuristic, dark-themed voice agent using Google Gemini for intelligence and Murf AI for realistic speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
